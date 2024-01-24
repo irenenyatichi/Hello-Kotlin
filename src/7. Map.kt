@@ -60,4 +60,5 @@ fun main (){
     // Result: [Rice, uji, apple, kiwi, orange]
     println(juiceM.values)
     //Result: [150, 100, 100, 190, 200]
+    
 }
