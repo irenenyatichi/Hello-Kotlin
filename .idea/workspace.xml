@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="256b0a1b-8d3c-4889-9a90-b27bb978e2ad" name="Changes" comment="Amended">
-      <change beforePath="$PROJECT_DIR$/src/7. Map.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/7. Map.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;irenenyatichi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="93e5cbbd-69bf-46d4-8e48-df2826d32b44" />
+        <option name="url" value="https://github.com/irenenyatichi/Hello-Kotlin.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -43,13 +58,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Administrator/IdeaProjects/Hello Kotlin",
+    "last_opened_file_path": "C:/Users/Administrator/IdeaProjects/Hello Kotlin/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Administrator/IdeaProjects/Hello Kotlin/src/Main.kt",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -115,7 +133,8 @@
       <option name="presentableId" value="Default" />
       <updated>1705930300426</updated>
       <workItem from="1705930301588" duration="1039000" />
-      <workItem from="1705996260334" duration="14048000" />
+      <workItem from="1705996260334" duration="14677000" />
+      <workItem from="1706013027032" duration="95000" />
     </task>
     <task id="LOCAL-00001" summary="Amended">
       <option name="closed" value="true" />
