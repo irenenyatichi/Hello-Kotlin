@@ -4,6 +4,7 @@
 // To evaluate a piece of code in template expression, place the code within curly braces{ } after the dollar sign $
 
 fun main(){
+    
     val customers = 10
     println("There are $customers customers today")
     //Result : There are 10 customers today
@@ -17,4 +18,5 @@ fun main(){
     // The result should be Mary is 20 years old
 
     println("$name is $age years old today")
+    
 }
