@@ -32,4 +32,5 @@ fun main (){
     variousfruits.remove("Pineapple")
     println(variousfruits)
     //Result: [Orange, Mango, Passion]
+    
 }
