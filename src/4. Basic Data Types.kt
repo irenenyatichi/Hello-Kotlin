@@ -21,6 +21,7 @@
 //  Strings                     String
 
 fun main() {
+    
     var customers = 10
     customers = 8
     customers = customers + 3 // Example of addition: 11
@@ -51,4 +52,3 @@ fun main() {
     val f: Char = '\n'
 
 }
-
