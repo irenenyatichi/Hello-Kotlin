@@ -61,4 +61,5 @@ fun main() {
     menu.removeAt(1)
     println(menu)
     // Result: [Rice, Chicken]
+    
 }
