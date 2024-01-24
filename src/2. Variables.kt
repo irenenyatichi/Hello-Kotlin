@@ -2,6 +2,7 @@ val soda = 7
 var hotdog = 10
 
 fun main(){
+    
 //    Variables are used to store data
 //            val = read-only variables
 //            var = mutable variables
@@ -26,5 +27,5 @@ fun main(){
 
     //Variables can be declared outside the main() fun. They are said to be declared top level. Example is soda
     //All variables are declared as read-only (val) by default. Declare mutable variables (var) only if necessary
-}
 
+}
