@@ -43,10 +43,10 @@ val blackColor = "Black"
 
 //Practice Time: Nullability/Lists
 //Create a list with two elements that are null; do it in two different ways.
-//Next, create a list where the list is null.
-    listOf(null,null)
-    [null, null]
-    var list: List, = listOf(null, null)
+//Next, create a list where the list is null. (Commented because of error lines)
+//    listOf(null,null)
+//    [null, null]
+//    var list: List, = listOf(null, null)
 
 // Their Result:
 //    var list2:List,? = null
